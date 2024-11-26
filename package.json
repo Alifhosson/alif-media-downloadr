@@ -1,0 +1,47 @@
+{
+  "name": "alif-media-downloadr",
+  "version": "2.2.9",
+  "description": "Fetch URL downloads from Instagram, Facebook, TikTok, YouTube, Twitter, Google Drive, Pinterest, Likee, Threads, and more.",
+  "main": "alif/index.js",
+  "scripts": {
+    "test": "node alif/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alifhosson/alif-media-downloadr.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "video",
+    "facebook",
+    "youtube",
+    "twitter",
+    "gdrive",
+    "pinterest",
+    "media-download",
+    "likee",
+    "threads",
+    "alif"
+  ],
+  "author": "ALIF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alifhosson/alif-media-downloadr/issues"
+  },
+  "homepage": "https://github.com/alifhosson/alif-media-downloadr#readme",
+  "dependencies": {
+    "nayan-media-downloader": "^2.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.5.4"
+  },
+  "engines": {
+    "node": ">=14.0"
+  }
+}
