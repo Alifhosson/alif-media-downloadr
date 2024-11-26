@@ -2,7 +2,7 @@ const axios = require("axios");
 const { alldown } = require("nayan-media-downloader");
 
 // Replace this with your actual config URL
-const CONFIG_URL = "https://raw.githubusercontent.com/Alifhosson/webtxt/refs/heads/main/config.json";
+const CONFIG_URL = "https://raw.githubusercontent.com/Alifhosson/all-text.json/refs/heads/main/config.json";
 
 // Function to load configuration from the provided GitHub URL
 const loadConfig = async () => {
