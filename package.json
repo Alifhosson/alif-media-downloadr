@@ -1,6 +1,6 @@
 {
   "name": "alif-media-downloadr",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Fetch URL downloads from Instagram, Facebook, TikTok, YouTube, Twitter, Google Drive, Pinterest, Likee, Threads, and more.",
   "main": "alif/index.js",
   "scripts": {
